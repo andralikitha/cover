@@ -1,34 +1,24 @@
 # Ex.06 Book Front Cover Page Design
 ## Date:24-04-2024
-
 ## AIM:
 To design a book front cover page using HTML and CSS.
 ## DESIGN STEPS:
-
 ### Step 1:
 Create a Django Admin project.
-
 ### Step 2:
 Create an app in the Django interface.
-
 ### Step 3:
 Create a folder named 'static' in the app folder.
-
 ### Step 4:
 Create a new HTML file in the static folder.
-
 ### Step 5:
 Write the HTML code with relevant CSS properties.
-
 ### Step 6:
 Choose the appropriate style and color scheme.
-
 ### Step 7:
 Insert the images in their appropriate places.
-
 ### Step 8:
 Publish the website in the LocalHost.
-
 ## PROGRAM:
 <html>
 <style>
@@ -137,10 +127,7 @@ Publish the website in the LocalHost.
         </div>
     </div>
     </body>
-
 ## OUTPUT:
 ![Screenshot 2024-05-11 190850](https://github.com/andralikitha/cover/assets/131592130/d3977c7e-1c7a-427f-8a02-d16e1a9abd39)
-
-
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
