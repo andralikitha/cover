@@ -3,7 +3,6 @@
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
-
 ## DESIGN STEPS:
 
 ### Step 1:
